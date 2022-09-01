@@ -1,1 +1,1 @@
-this displays the ls in the repo
+Display the contents list of your current directory
