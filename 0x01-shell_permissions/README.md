@@ -1,1 +1,1 @@
-echo ma
+hello school
