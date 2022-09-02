@@ -1,1 +1,1 @@
-list
+file /tmp/iamafile
