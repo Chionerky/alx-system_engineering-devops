@@ -1,1 +1,1 @@
-find-type f -delete
+no more js
