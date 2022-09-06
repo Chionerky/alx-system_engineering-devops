@@ -1,1 +1,1 @@
- new passwd
+count glory
