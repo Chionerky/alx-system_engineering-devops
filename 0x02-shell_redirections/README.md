@@ -1,2 +1,1 @@
-count glory
-near home
+whatsnext
