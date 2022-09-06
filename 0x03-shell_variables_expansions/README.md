@@ -1,1 +1,1 @@
-beauty
+print path
