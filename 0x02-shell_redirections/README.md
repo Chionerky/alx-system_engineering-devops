@@ -1,1 +1,1 @@
-Duplicate last line
+find-type f -delete
