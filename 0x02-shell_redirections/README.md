@@ -1,1 +1,1 @@
-hidden in d bin
+letters only
