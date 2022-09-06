@@ -1,1 +1,1 @@
-no more js
+all dir and pipes
