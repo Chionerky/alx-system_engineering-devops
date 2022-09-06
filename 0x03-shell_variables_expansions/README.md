@@ -1,1 +1,1 @@
-print path
+second result
