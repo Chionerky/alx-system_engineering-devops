@@ -1,1 +1,2 @@
 count glory
+near home
