@@ -1,1 +1,1 @@
-read file
+read am
