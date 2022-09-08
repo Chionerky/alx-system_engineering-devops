@@ -1,1 +1,1 @@
-read redirections
+reverse it
