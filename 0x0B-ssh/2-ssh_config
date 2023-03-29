@@ -1,0 +1,7 @@
+Host *
+  IdentityFile ~/.ssh/school
+  PubkeyAuthentication yes
+  PasswordAuthentication no
+  ChallengeResponseAuthentication no
+  UseKeychain yes
+  AddKeysToAgent yes
